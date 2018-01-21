@@ -13,7 +13,7 @@ url: https://abhitaker.github.io/  # url should be 'http://<github_username>.git
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
-author:  Abhishek Singh Saini
+author: 
   name: AbhiTaker  # Be used at blog posts' author.
   first_name: Abhishek  # Be used at index page about me section.
   last_name: Singh Saini  # Be used at index page about me section.
