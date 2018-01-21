@@ -4,26 +4,26 @@
     detail: Company A
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Birla Institute of Technology, Mesra
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: July 2016
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: UnderGraduate
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Cognitio
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Winter Intern
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Dec. 2016
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Marketing Intern
     i18n: company_b_job
   icon: fa-plus-square
