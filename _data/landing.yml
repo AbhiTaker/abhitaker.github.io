@@ -27,8 +27,9 @@
 - id: blog
   i18n: nav.blog
   name: Blog
-  tpl: blog.html
-  page: blog/
+  url: https://abhitaker.wordpress.com/
+  #tpl: blog.html
+  #page: https://abhitaker.wordpress.com/
   css: testimonials navy-section
 
 - id: links

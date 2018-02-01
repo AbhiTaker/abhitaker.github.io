@@ -20,7 +20,7 @@
   i18n: cpython
   gh_user: AbhiTaker
   repo: PyMATH
-  img: /static/assets/img/landing/python1.png
+  img: /static/assets/img/landing/python.png
   desc: Package consisting of pre-written modules to do math operations in python.
 
 - name: WEBlog
