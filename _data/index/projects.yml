@@ -1,22 +1,33 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: EMINEM
+  i18n: abhitaker
+  gh_user: AbhiTaker
+  repo: EMINEM
+  img: /static/assets/img/landing/html.png
+  desc: A static website made using HTML5 , CSS3 , javascript & jQuery.
 
-- name: Python
+- name: Facebook-Newsfeed
+  i18n: abhitaker
+  gh_user: AbhiTaker
+  repo: Facebook-Newsfeed
+  img: /static/assets/img/landing/css1.png
+  desc: Self designed screenshot of facebook newsfeed.
+
+  
+- name: PyMATH
   i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  gh_user: AbhiTaker
+  repo: PyMATH
+  img: /static/assets/img/landing/python1.png
+  desc: Package consisting of pre-written modules to do math operations in python.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: WEBlog
+  i18n: cpython
+  gh_user: AbhiTaker
+  repo: WEBlog
+  img: /static/assets/img/landing/django.png
+  desc: Basic code for blog application in django.
+
+
