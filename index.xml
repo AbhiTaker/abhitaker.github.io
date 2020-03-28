@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>AbhiTaker</title>
-		<link>https://github.com/AbhiTaker/abhitaker.github.io/</link>
+		<link>abhitaker.me/</link>
 		<description>Recent content on AbhiTaker</description>
 		<generator>Hugo -- gohugo.io</generator>
 		
@@ -11,13 +11,13 @@
     	
   		<lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
 		
-		<atom:link href="https://github.com/AbhiTaker/abhitaker.github.io/" rel="self" type="application/rss+xml" />
+		<atom:link href="abhitaker.me/" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Changes are Inevitable</title>
-			<link>https://github.com/AbhiTaker/abhitaker.github.io/post/changes_are_inevitable/</link>
+			<link>abhitaker.me/post/changes_are_inevitable/</link>
 			<pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
-			<guid>https://github.com/AbhiTaker/abhitaker.github.io/post/changes_are_inevitable/</guid>
+			<guid>abhitaker.me/post/changes_are_inevitable/</guid>
 			<description>&lt;p&gt;No doubt, changes are inevitable. The person who resists the changes that are for his/her good is no better than a dead person. I had to make a change.&lt;/p&gt;</description>
 		</item>
 		
