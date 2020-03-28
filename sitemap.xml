@@ -1,17 +1,47 @@
----
-layout: null
-title : Sitemap
----
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{% for post in site.posts %}
-    <url>
-        <loc>{{site.url}}{{ post.url }}</loc>
-    </url>
-{% endfor %}
-{% for page in site.pages %}
-    <url>
-        <loc>{{site.url}}{{ page.url }}</loc>
-    </url>
-{% endfor %}
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>abhitaker.me/tags/change/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>abhitaker.me/post/changes_are_inevitable/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>abhitaker.me/post/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>abhitaker.me/tags/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>abhitaker.me/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>abhitaker.me/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>abhitaker.me/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>abhitaker.me/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>abhitaker.me/search/</loc>
+  </url>
+  
 </urlset>

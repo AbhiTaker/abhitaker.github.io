@@ -1,68 +1,166 @@
----
-layout: blog
-title: index
-permalink: /
----
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8" />
+<title></title>
 
-<div class="navbar-wrapper">
-  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-    <div class="container">
-      <div class="navbar-header page-scroll">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="#page-top" id="i18_title"><span data-i18n="website.title">{{ site.title }}</span></a>
-      </div>
-      <div id="navbar" class="navbar-collapse collapse">
-        <ul class="nav navbar-nav navbar-right" id="i18_navbar">
-          {% for section in site.data.landing %}
-          <li>
-            {% if section.page %}
-              <a class="page-scroll" href="{{ section.page}} ">
-            {% else %}
-              <a class="page-scroll" href="{{ section.id | prepend: '#'}} ">
-            {% endif %}
-              <span data-i18n="{{ section.i18n }}">{{ section.name }}</span>
-            </a>
-          </li>
-          {% endfor %}
-          {% for language in site.data.index.language %}
-          <li>
-            <a id="set_lang_{{ language.locale }}" class="btn btn-sm set_{{ language.locale }}" data-locale="{{ language.locale }}">
-              <img src="{{ language.flag | prepend: site.baseurl }}" height="16" width="16">
-            </a>
-          </li>
-          {% endfor %}
-        </ul>
+
+  
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" type="application/rss+xml" href="abhitaker.meindex.xml" title="Site Title">
+
+<link rel="stylesheet" href="abhitaker.mecss/main.css" />
+<link rel="stylesheet" href="abhitaker.mecss/syntax.css" />
+<link id="dark-mode" rel="stylesheet" href="abhitaker.mecss/dark-sys.css" />
+<link disabled id="dark-mode-theme" rel="stylesheet" href="abhitaker.mecss/dark.css" />
+<link rel="stylesheet" href="abhitaker.mefontawesome/css/all.css" />
+<meta name="generator" content="Hugo 0.68.1" />
+  </head>
+  <body>
+    
+  
+    
+  
+
+
+
+
+  <header>
+    <nav class="navbar">
+  <div class="nav">
+    
+      <a href="abhitaker.me" class="nav-logo">
+      <img src="abhitaker.meimages/icon.png"
+           width="70"
+           height="70"
+           alt="Logo">
+      </a>
+    
+
+    <ul class="nav-links">
+      
+        
+          <li><a href="/abhitaker.me/about/" name="About"><i class="fas fa-user fa-lg"></i></a></li>
+        
+      
+        
+          <li><a href="/abhitaker.me/tags" name="Tags"><i class="fas fa-tag fa-lg"></i></a></li>
+        
+      
+        
+          <li><a href="/abhitaker.me/search" name="Search"><i class="fas fa-search fa-lg"></i></a></li>
+        
+      
+    </ul>
+  </div>
+</nav>
+
+    <div class="intro-header">
+      <div class="container">
+        <div class="page-heading">
+          
+            <h1>AbhiTaker</h1>
+          
+          
+        </div>
       </div>
     </div>
-  </nav>
-</div>
-{% if site.index_carousel %}
-{% include carousel.html %}
-{% endif %}
+  </header>
 
-{% for section in site.data.landing %}
-{% assign loopindex = forloop.index | modulo: 2 %}
-<section id="{{ section.id }}" class="features {% if loopindex != 1 %} gray-section {% endif %} {{ section.css }}" style="margin-top: 0;">
-  {% include sections/{{section.tpl}} %}
-</section>
-{% endfor %}
-<style>
-iframe {
-  -moz-transform: scale(0.25, 0.25);
-  -webkit-transform: scale(0.25, 0.25);
-  -o-transform: scale(0.25, 0.25);
-  -ms-transform: scale(0.25, 0.25);
-  transform: scale(0.25, 0.25);
-  -moz-transform-origin: top left;
-  -webkit-transform-origin: top left;
-  -o-transform-origin: top left;
-  -ms-transform-origin: top left;
-  transform-origin: top left;
-}
-</style>
-<!-- <iframe src="https://www.maimemo.com/share/page/?uid=779139&pid=660" style="display: none;"></iframe> -->
+
+    
+<div class="container" role="main">
+    <div class="posts-list">
+      
+        
+      
+
+      
+        <article class="post-preview">
+  <a href="abhitaker.me/post/changes_are_inevitable/">
+      <h2 class="post-title">Changes are Inevitable</h2>
+  </a>
+  <div class="post-entry">
+    
+      <p><p>No doubt, changes are inevitable. The person who resists the changes that are for his/her good is no better than a dead person. I had to make a change.</p></p>
+        <a href="abhitaker.me/post/changes_are_inevitable/" class="post-read-more">Read More</a>
+    
+  </div>
+
+  <div class="postmeta">
+    <span class="meta-post">
+  <i class="fa fa-calendar-alt"></i>&nbsp;Mar 28, 2020
+  
+</span>
+
+  </div>
+</article>
+
+      
+      </div>
+    
+</div>
+
+    <footer>
+  <div class="container">
+    <p class="credits copyright">
+      <a href="abhitaker.meabout"></a>
+      &nbsp;&copy;
+      2020
+
+      
+        &nbsp;/&nbsp;
+        <a href="abhitaker.me">AbhiTaker</a>
+      
+
+      &nbsp;&ndash;&nbsp;
+      <i class="fas fa-moon" id="dark-mode-toggle"></i>
+
+      <p class="credits theme-by">
+        Powered By <a href="https://gohugo.io">Hugo</a>&nbsp;Theme <a href="https://github.com/matsuyoshi30/harbor">Harbor</a>
+      </p>
+    </p>
+  </div>
+</footer>
+
+    <script>
+  var toggle = document.getElementById("dark-mode-toggle");
+  var darkTheme = document.getElementById("dark-mode-theme");
+
+  var darkThemeSys = document.getElementById("dark-mode");
+
+  
+  var savedTheme = localStorage.getItem("dark-mode-storage") || "light";
+  if (matchMedia('(prefers-color-scheme: dark)').matches) {
+    savedTheme = "dark"
+  }
+  setTheme(savedTheme);
+
+  toggle.addEventListener("click", () => {
+    if (toggle.className === "fas fa-moon") {
+        setTheme("dark");
+    } else if (toggle.className === "fas fa-sun") {
+        setTheme("light");
+    }
+  });
+
+  function setTheme(mode) {
+    localStorage.setItem("dark-mode-storage", mode);
+
+    if (mode === "dark") {
+        darkTheme.disabled = false;
+        darkThemeSys.disabled = false;
+        toggle.className = "fas fa-sun";
+    } else if (mode === "light") {
+        darkTheme.disabled = true;
+        darkThemeSys.disabled = true;
+        toggle.className = "fas fa-moon";
+    }
+  }
+</script>
+
+  </body>
+</html>

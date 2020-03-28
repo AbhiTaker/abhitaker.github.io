@@ -1,2 +1,0 @@
-# AbhiTaker
-My Profile Page
