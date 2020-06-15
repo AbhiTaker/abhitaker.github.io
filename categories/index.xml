@@ -1,39 +1,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Categories on AbhiTaker</title>
-		<link>/categories/</link>
+		<link>https://gohugo.io/categories/</link>
 		<description>Recent content in Categories on AbhiTaker</description>
 		<generator>Hugo -- gohugo.io</generator>
 		
-  		<language>en-us</language>
+  		<language>en</language>
 		
-		<managingEditor>Page(/categories)</managingEditor>
+		<managingEditor>Page(/categories) (abhitaker)</managingEditor>
     	
-		<atom:link href="/categories/" rel="self" type="application/rss+xml" />
-		
-		<item>
-			<title>Letter from My 19-Year-Old self</title>
-			<link>/post/letter_from_my_19_year_old_self/</link>
-			<pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
-			<guid>/post/letter_from_my_19_year_old_self/</guid>
-			<description>&lt;p&gt;Who says you can&amp;rsquo;t time travel? I&amp;rsquo;m glad to tell you that there are ways to hack the system. When I was 19-Year-Old, I found the concept of writing a letter to your future self very intriguing. I wanted to try it out, so I decided that on every birthday I’d write a letter to myself, that I’d open on my next birthday.&lt;/p&gt;</description>
-		</item>
-		
-		<item>
-			<title>So You Think You Have Privacy?</title>
-			<link>/post/so_you_think_you_have_privacy/</link>
-			<pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-			<guid>/post/so_you_think_you_have_privacy/</guid>
-			<description>&lt;p&gt;For years I have known that privacy is a myth and has become a defunct concept. All the tech giants who are in active-pursuit to control the Internet have made sure that it&amp;rsquo;s hard to care about privacy. But then one day I stumbled upon this podcast that made me realize that the majority is unaware of this fact.&lt;/p&gt;</description>
-		</item>
-		
-		<item>
-			<title>Changes are Inevitable</title>
-			<link>/post/changes_are_inevitable/</link>
-			<pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
-			<guid>/post/changes_are_inevitable/</guid>
-			<description>&lt;p&gt;No doubt, changes are inevitable. The person who resists the changes that are for his/her good is no better than a dead person. I had to make a change.&lt;/p&gt;</description>
-		</item>
+		<atom:link href="https://gohugo.io/categories/" rel="self" type="application/rss+xml" />
 		
 	</channel>
 </rss>
