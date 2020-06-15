@@ -305,7 +305,7 @@ pre {
 pre code {
     padding: 0;
     font-family: Menlo, Monaco, Consolas, monospace;
-    font-size: inherit;
+    font-size: initial;
     color: inherit;
     white-space: pre-wrap;
     background-color: transparent;
