@@ -189,8 +189,8 @@ words for you: STAY HUNGRY, STAY FOOLISH</p>
     localStorage.setItem("dark-mode-storage", mode);
 
     if (mode === "dark") {
-        darkTheme.disabled = false;
-        darkThemeSys.disabled = false;
+        darkTheme.disabled = true;
+        darkThemeSys.disabled = true;
         toggle.className = "fas fa-sun";
     } else if (mode === "light") {
         darkTheme.disabled = true;
