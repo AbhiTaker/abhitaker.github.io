@@ -12,6 +12,14 @@
 		<atom:link href="/tags/index/" rel="self" type="application/rss+xml" />
 		
 		<item>
+			<title>How to Infrastructure Engineer: Noob Edition</title>
+			<link>/post/how_to_infrastructure_engineer/</link>
+			<pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+			<guid>/post/how_to_infrastructure_engineer/</guid>
+			<description>&lt;p&gt;The Internship that I was so excited about in the late 2K19 is finally over and I’m back here again to share my learnings. Even though my job profile stated “Software Engineer”, it was quite different from traditional software engineering because I was part of the &amp;ldquo;Infrastructure team&amp;rdquo;.&lt;/p&gt;</description>
+		</item>
+		
+		<item>
 			<title>Letter from My 19-Year-Old self</title>
 			<link>/post/letter_from_my_19_year_old_self/</link>
 			<pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
