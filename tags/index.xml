@@ -9,39 +9,23 @@
 		
 		<managingEditor>Page(/tags)</managingEditor>
     	
-  		<lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
+  		<lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
 		
 		<atom:link href="/tags/" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>How to Infrastructure Engineer: Noob Edition</title>
-			<link>/post/how_to_infrastructure_engineer/</link>
-			<pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
-			<guid>/post/how_to_infrastructure_engineer/</guid>
-			<description>&lt;p&gt;The Internship that I was so excited about in the late 2K19 is finally over and I’m back here again to share my learnings. Even though my job profile stated “Software Engineer”, it was quite different from traditional software engineering because I was part of the &amp;ldquo;Infrastructure team&amp;rdquo;.&lt;/p&gt;</description>
-		</item>
-		
-		<item>
-			<title>Letter from My 19-Year-Old self</title>
-			<link>/post/letter_from_my_19_year_old_self/</link>
-			<pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
-			<guid>/post/letter_from_my_19_year_old_self/</guid>
-			<description>&lt;p&gt;Who says you can&amp;rsquo;t time travel? I&amp;rsquo;m glad to tell you that there are ways to hack the system. When I was 19-Year-Old, I found the concept of writing a letter to your future self very intriguing. I wanted to try it out, so I decided that on every birthday I’d write a letter to myself, that I’d open on my next birthday.&lt;/p&gt;</description>
-		</item>
-		
-		<item>
-			<title>So You Think You Have Privacy?</title>
-			<link>/post/so_you_think_you_have_privacy/</link>
-			<pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-			<guid>/post/so_you_think_you_have_privacy/</guid>
-			<description>&lt;p&gt;For years I have known that privacy is a myth and has become a defunct concept. All the tech giants who are in active-pursuit to control the Internet have made sure that it&amp;rsquo;s hard to care about privacy. But then one day I stumbled upon this podcast that made me realize that the majority is unaware of this fact.&lt;/p&gt;</description>
+			<title>Beauty and the Sage</title>
+			<link>/post/story/sage/</link>
+			<pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+			<guid>/post/story/sage/</guid>
+			<description>&lt;p&gt;“So last night I was watching a movie. The storyline was conventional, ‘boy rescues the girl from grave dangers’. After the movie ended, I realized something. Throughout the movie, all my focus was on the girl. Her beauty captured all my attention and at that moment of admiration, I imagined myself as the hero character who can give up all his hopes and dreams to be her rescuer”, said the boy to the sage.&lt;/p&gt;</description>
 		</item>
 		
 		<item>
 			<title>Changes are Inevitable</title>
-			<link>/post/changes_are_inevitable/</link>
+			<link>/post/essay/changes_are_inevitable/</link>
 			<pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
-			<guid>/post/changes_are_inevitable/</guid>
+			<guid>/post/essay/changes_are_inevitable/</guid>
 			<description>&lt;p&gt;No doubt, changes are inevitable. The person who resists the changes that are for his/her good is no better than a dead person. I had to make a change.&lt;/p&gt;</description>
 		</item>
 		
