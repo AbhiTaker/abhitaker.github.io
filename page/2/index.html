@@ -52,11 +52,15 @@
     <ul class="nav-links">
       
         
-          <li><a href="/about/" name="About"><i class="fas fa-user fa-lg"></i></a></li>
+          <li><a href="/post/essay/" name="Essay"><i class="fas fa-tools fa-lg"></i></a></li>
         
       
         
-          <li><a href="/tags" name="Tags"><i class="fas fa-tag fa-lg"></i></a></li>
+          <li><a href="/post/story/" name="Story"><i class="fas fa-feather fa-lg"></i></a></li>
+        
+      
+        
+          <li><a href="/about/" name="About"><i class="fas fa-user fa-lg"></i></a></li>
         
       
         
@@ -89,13 +93,13 @@
 
       
         <article class="post-preview">
-  <a href="/post/changes_are_inevitable/">
+  <a href="/post/essay/changes_are_inevitable/">
       <h2 class="post-title">Changes are Inevitable</h2>
   </a>
   <div class="post-entry">
     
       <p><p>No doubt, changes are inevitable. The person who resists the changes that are for his/her good is no better than a dead person. I had to make a change.</p></p>
-        <a href="/post/changes_are_inevitable/" class="post-read-more">Read More</a>
+        <a href="/post/essay/changes_are_inevitable/" class="post-read-more">Read More</a>
     
   </div>
 
@@ -169,8 +173,8 @@
     localStorage.setItem("dark-mode-storage", mode);
 
     if (mode === "dark") {
-        darkTheme.disabled = false;
-        darkThemeSys.disabled = false;
+        darkTheme.disabled = true;
+        darkThemeSys.disabled = true;
         toggle.className = "fas fa-sun";
     } else if (mode === "light") {
         darkTheme.disabled = true;
