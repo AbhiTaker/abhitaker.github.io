@@ -3,28 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/story/sage/</loc>
-    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/tags/engineering/</loc>
+    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/essay/</loc>
+    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/essay/weekly_update_001/</loc>
+    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/work/</loc>
+    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/story/sage/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/story/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/engineering/</loc>
-    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/essay/</loc>
-    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -39,11 +54,6 @@
   
   <url>
     <loc>/tags/lessons/</loc>
-    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-07-09T00:00:00+00:00</lastmod>
   </url>
   

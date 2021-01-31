@@ -2,20 +2,20 @@
     
         
             {
-                "ref": "/post/story/index.json",
-                "title": "Story",
+                "ref": "/post/essay/index.json",
+                "title": "Essay",
                 "section": "post",
-                "date" : "2020.09.19",
+                "date" : "2021.01.31",
                 "body": ""
             }
         
     ,
         
             {
-                "ref": "/post/essay/index.json",
-                "title": "Essay",
+                "ref": "/post/story/index.json",
+                "title": "Story",
                 "section": "post",
-                "date" : "2020.07.09",
+                "date" : "2020.09.19",
                 "body": ""
             }
         
